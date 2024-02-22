@@ -805,7 +805,7 @@ input[type=color] {
 }
 @media (max-width: 600px) {
   .association-title h4 {
-    margin-right:570px;
+    margin-right:520px;
     font-size: smaller; /* Example adjustment */
   }
   .side-menu-icon { 
